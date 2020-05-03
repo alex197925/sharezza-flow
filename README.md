@@ -1,1 +1,9 @@
-# sharezza-flow
+List of my favourite pizza cheeses:
+1.MOZZARELLA
+2.CHEDDAR/MATURED CHEDDAR
+3.AGED HAVARTI
+4.GORGONZOLA
+5.PARMIGIANO-REGGIANO
+
+
+
